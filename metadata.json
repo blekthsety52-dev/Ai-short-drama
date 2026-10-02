@@ -1,0 +1,6 @@
+{
+  "name": "Ai Short Drama",
+  "description": "Watch trending vertical short dramas, mini-series, and exclusive blockbuster episodes anytime, anywhere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
